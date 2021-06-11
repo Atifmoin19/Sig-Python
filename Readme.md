@@ -5,8 +5,10 @@ My name is Atif Moin student of Btech 2nd year of IPEC roll number : 19003001000
 #### [Link to Respective Repo](https://github.com/Atifmoin19/Sig-Python/tree/main/Module%202)
 
 ### what i learned from this Module is:
-  1.a-> Looping statement.(while loop, for loop).
-  1.b-> Conditional statement(if,elif,else,nestedif).
+| S.no  |                 Learning                     | 
+|-------|:--------------------------------------------:|
+| 1.a-> | Looping statement.(while loop, for loop).    |
+| 1.b-> | Conditional statement(if,elif,else,nestedif).|
 
 # 2. Module 4 : 
 
@@ -44,7 +46,7 @@ My name is Atif Moin student of Btech 2nd year of IPEC roll number : 19003001000
 
 #  6. Module 8 : 
 
-##  [Link to Respective Repo](https://github.com/Atifmoin19/Sig-Python/tree/main/Module%208)
+####  [Link to Respective Repo](https://github.com/Atifmoin19/Sig-Python/tree/main/Module%208)
 
 ###  what i learned from this Module is:
   6.a->More about List and list comprehension.
@@ -54,7 +56,7 @@ My name is Atif Moin student of Btech 2nd year of IPEC roll number : 19003001000
 
 #  7. Module 9 : 
 
-##  [Link to Respective Repo](https://github.com/Atifmoin19/Sig-Python/tree/main/Module%209)
+####  [Link to Respective Repo](https://github.com/Atifmoin19/Sig-Python/tree/main/Module%209)
 
 #####  what i learned from this Module is:
   7.a->File handling operation in python.
@@ -65,8 +67,8 @@ My name is Atif Moin student of Btech 2nd year of IPEC roll number : 19003001000
 #### [Link to Respective Repo](https://github.com/Atifmoin19/Sig-Python/tree/main/Module%2010)
 
 ###  what i learned from this Module is:
-  8.a->Classes and objects.
-  8.b->Menu driven program using classes an objects passing parameters.
+  8.a. Classes and objects.
+  8.b. Menu driven program using classes an objects passing parameters.
 
 # `Thanks`
 
