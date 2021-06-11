@@ -15,9 +15,11 @@ My name is Atif Moin student of Btech 2nd year of IPEC roll number : 19003001000
 #### [Link to Respective Repo](https://github.com/Atifmoin19/Sig-Python/tree/main/Module%204)
 
 ### what i learned from this Module is:
-  2.a->Learned use of Looping statement.(while loop, for loop).
-  2.b->Learned use of Conditional statement(if,elif,else,nestedif). 
-  2.c->Learnd use of break and continue statements.
+| S.no  |                 Learning                     | 
+|-------|:--------------------------------------------:|
+| 2.a->|Learned use of Looping statement.(while loop, for loop).|
+|2.b->|Learned use of Conditional statement(if,elif,else,nestedif). |
+|2.c->| Learnd use of break and continue statements.|
 
 # 3. Module 5 : 
 
