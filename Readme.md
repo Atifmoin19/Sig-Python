@@ -1,7 +1,5 @@
 
-<img width="200" alt="SigPython" src="https://github.com/Atifmoin19/Sig-Python/blob/main/768px-Python-logo-notext.svg.png">
-
-My name is Atif Moin student of Btech 2nd year of IPEC roll number : 1900300100051 student of Sig-python(Batch 2k20) submitting my final project and it includes modules and what i learnd from that..
+<img width="100" alt="SigPython" src="https://github.com/Atifmoin19/Sig-Python/blob/main/768px-Python-logo-notext.svg.png"> My name is Atif Moin student of Btech 2nd year of IPEC roll number : 1900300100051 student of Sig-python(Batch 2k20) submitting my final project and it includes modules and what i learnd from that..
 
 # 1. Module 2 : 
 
