@@ -1,0 +1,5 @@
+print("Atif Moin")
+print("19003000100051")
+name = input('what is your name\n')
+l=len(name)
+print("Length of string is = ",l)
