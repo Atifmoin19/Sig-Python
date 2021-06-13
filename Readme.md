@@ -87,4 +87,4 @@
 
 # `Thanks`
 
-Overall i have learned lots of thing here in sig python as our Rispected Ritik Sir have given there best and i would like to thanks all of them who taught me something that i dont know. I hope i have submitted my task timely with full resepect.
+Overall i have learned lots of thing here in sig python as our Rispected Ritik Sir and Kush sir who have given there best and i would like to thanks all of them who taught me something that i dont know. I hope i have submitted my task timely with full resepect.
